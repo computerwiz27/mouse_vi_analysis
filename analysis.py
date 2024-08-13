@@ -1,3 +1,5 @@
+import gui
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
@@ -146,3 +148,6 @@ def run(folder: str, output_file: str):
         output.write('\n')
     
     output.close()
+    gui.display_process_finished()
+
+
