@@ -55,7 +55,7 @@ def run_ui() -> None:
     output_browse_btn = tk.Button(output_frame, text='Browse...', command=lambda: get_save_file(mouse_name, output_entry))
     output_browse_btn.grid(column=2, row=0)
 
-    save_btn = tk.Button(root, text='Analyse and Save', command=lambda:analysis.run(input_folder, output))
+    save_btn = tk.Button(root, text='Analyse and Save', command=lambda:analysis.run(folder_entry.get(), output_entry.get()))
     save_btn.grid(column=0, row=2)
 
     root.mainloop()
