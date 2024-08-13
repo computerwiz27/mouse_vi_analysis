@@ -1,353 +1,353 @@
 MM:DD:YYYY hh:mm:ss,Library_Version,Session_type,Device_Number,Battery_Voltage,Motor_Turns,FR,Event,Active_Poke,Left_Poke_Count,Right_Poke_Count, Well_Poke_Count,Pellet_Count,Block_Pellet_Count,Retrieval_Time,InterPelletInterval,Poke_Time,VI_Count_Down
-13/14/2095 3:31:47,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,1,0,0,0,nan,nan,0.44,nan
-13/14/2095 3:31:48,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,1,0,1,0,0.06,nan,nan,nan
-13/14/2095 3:32:04,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,2,0,1,0,nan,nan,0.11,nan
-13/14/2095 3:32:04,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,2,0,1,0,nan,nan,nan,16.50
-13/14/2095 3:32:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,3,0,1,0,nan,nan,0.05,14.16
-13/14/2095 3:32:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,4,0,1,0,nan,nan,0.01,11.10
-13/14/2095 3:33:17,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,4,0,2,0,Timed_out,89,nan,nan
-13/14/2095 3:33:30,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,5,0,2,0,nan,nan,0.00,nan
-13/14/2095 3:33:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,5,0,2,0,nan,nan,nan,8.50
-13/14/2095 3:33:37,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,6,0,2,0,nan,nan,0.45,0.58
-13/14/2095 3:33:39,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,0,6,0,3,0,1.71,22,nan,nan
-13/14/2095 3:33:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,7,0,3,0,nan,nan,0.11,nan
-13/14/2095 3:33:47,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,7,0,3,0,nan,nan,nan,9.50
-13/14/2095 3:33:50,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,8,0,3,0,nan,nan,0.00,6.28
-13/14/2095 3:33:54,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,9,0,3,0,nan,nan,0.00,0.69
-13/14/2095 3:33:55,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,9,0,4,0,0.24,16,nan,nan
-13/14/2095 3:34:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,10,0,4,0,nan,nan,0.13,nan
-13/14/2095 3:34:08,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,10,0,4,0,nan,nan,nan,2.50
-13/14/2095 3:34:10,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,11,0,4,0,nan,nan,0.05,0.45
-13/14/2095 3:34:11,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,11,0,5,0,0.42,16,nan,nan
-13/14/2095 3:34:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,12,0,5,0,nan,nan,0.02,nan
-13/14/2095 3:34:23,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,12,0,5,0,nan,nan,nan,5.50
-13/14/2095 3:34:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,13,0,5,0,nan,nan,0.00,2.86
-13/14/2095 3:34:29,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,0,14,0,5,0,nan,nan,0.14,nan
-13/14/2095 3:34:30,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,14,0,6,0,2.00,18,nan,nan
-13/14/2095 3:34:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,15,0,6,0,nan,nan,0.02,nan
-13/14/2095 3:34:38,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,15,0,6,0,nan,nan,nan,2.50
-13/14/2095 3:34:39,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,16,0,6,0,nan,nan,0.13,1.62
-13/14/2095 3:34:41,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,16,0,7,0,0.12,12,nan,nan
-13/14/2095 3:34:52,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,17,0,7,0,nan,nan,0.12,nan
-13/14/2095 3:34:53,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,17,0,7,0,nan,nan,nan,10.50
-13/14/2095 3:35:01,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,17,0,8,0,0.06,20,nan,nan
-13/14/2095 3:35:21,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,0,17,1,8,0,nan,nan,0.03,nan
-13/14/2095 3:35:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,18,1,8,0,nan,nan,0.35,nan
-13/14/2095 3:35:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,18,1,8,0,nan,nan,nan,15.50
-13/14/2095 3:35:32,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,19,1,8,0,nan,nan,0.00,14.03
-13/14/2095 3:35:38,1.16.2,VAR INT,3,4.12,nan,1,Left,Right,1,19,1,8,0,nan,nan,0.02,6.38
-13/14/2095 3:35:38,1.16.2,VAR INT,3,4.12,nan,1,Left,Right,2,19,1,8,0,nan,nan,0.00,5.15
-13/14/2095 3:35:45,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,19,1,9,0,2.88,44,nan,nan
-13/14/2095 3:36:11,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,20,1,9,0,nan,nan,0.19,nan
-13/14/2095 3:36:11,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,20,1,9,0,nan,nan,nan,17.50
-13/14/2095 3:36:14,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,21,1,9,0,nan,nan,0.00,14.27
-13/14/2095 3:36:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,22,1,9,0,nan,nan,0.09,10.13
-13/14/2095 3:36:24,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,22,1,10,0,0.06,39,nan,nan
-13/14/2095 3:36:25,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,22,2,10,0,nan,nan,0.03,nan
-13/14/2095 3:38:28,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,23,2,10,0,nan,nan,0.20,nan
-13/14/2095 3:38:28,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,23,2,10,0,nan,nan,nan,12.50
-13/14/2095 3:38:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,24,2,10,0,nan,nan,0.10,9.85
-13/14/2095 3:38:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,25,2,10,0,nan,nan,0.18,6.09
-13/14/2095 3:38:36,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,26,2,10,0,nan,nan,0.00,1.88
-13/14/2095 3:38:38,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,26,2,11,0,0.06,134,nan,nan
-13/14/2095 3:38:46,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,27,2,11,0,nan,nan,0.07,nan
-13/14/2095 3:38:46,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,27,2,11,0,nan,nan,nan,15.50
-13/14/2095 3:38:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,28,2,11,0,nan,nan,0.00,13.44
-13/14/2095 3:38:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,29,2,11,0,nan,nan,0.00,9.60
-13/14/2095 3:38:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,30,2,11,0,nan,nan,0.03,5.45
-13/14/2095 3:38:57,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,31,2,11,0,nan,nan,0.00,0.97
-13/14/2095 3:39:01,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,31,2,12,0,1.40,23,nan,nan
-13/14/2095 3:42:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,32,2,12,0,nan,nan,0.14,nan
-13/14/2095 3:42:39,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,32,2,12,0,nan,nan,nan,9.50
-13/14/2095 3:42:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,33,2,12,0,nan,nan,0.06,7.44
-13/14/2095 3:42:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,34,2,12,0,nan,nan,0.00,3.77
-13/14/2095 3:42:47,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,35,2,12,0,nan,nan,0.10,nan
-13/14/2095 3:42:48,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,35,2,13,0,1.15,226,nan,nan
-13/14/2095 3:42:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,36,2,13,0,nan,nan,0.33,nan
-13/14/2095 3:42:58,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,36,2,13,0,nan,nan,nan,8.50
-13/14/2095 3:43:03,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,37,2,13,0,nan,nan,0.06,2.91
-13/14/2095 3:43:05,1.16.2,VAR INT,3,4.09,nan,1,RightDuringDispense,Right,2,38,2,13,0,nan,nan,0.17,nan
-13/14/2095 3:43:06,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,38,2,14,0,0.06,19,nan,nan
-13/14/2095 3:46:45,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,39,2,14,0,nan,nan,0.07,nan
-13/14/2095 3:46:45,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,39,2,14,0,nan,nan,nan,3.50
-13/14/2095 3:46:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,40,2,14,0,nan,nan,0.02,2.03
-13/14/2095 3:46:48,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,40,2,15,0,0.06,222,nan,nan
-13/14/2095 3:47:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,41,2,15,0,nan,nan,0.52,nan
-13/14/2095 3:47:06,1.16.2,VAR INT,3,4.13,nan,1,Set VI,Right,2,41,2,15,0,nan,nan,nan,2.50
-13/14/2095 3:47:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,42,2,15,0,nan,nan,0.06,0.15
-13/14/2095 3:47:15,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,42,2,16,0,3.67,27,nan,nan
-13/14/2095 3:47:34,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,43,2,16,0,nan,nan,0.22,nan
-13/14/2095 3:47:34,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,43,2,16,0,nan,nan,nan,13.50
-13/14/2095 3:47:37,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,44,2,16,0,nan,nan,0.07,10.86
-13/14/2095 3:47:39,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,45,2,16,0,nan,nan,0.00,6.58
-13/14/2095 3:47:43,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,46,2,16,0,nan,nan,0.06,1.85
-13/14/2095 3:47:46,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,46,2,17,0,0.06,31,nan,nan
-13/14/2095 3:47:48,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,46,3,17,0,nan,nan,0.04,nan
-13/14/2095 3:48:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,47,3,17,0,nan,nan,0.02,nan
-13/14/2095 3:48:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,47,3,17,0,nan,nan,nan,2.50
-13/14/2095 3:48:09,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,48,3,17,0,nan,nan,0.01,nan
-13/14/2095 3:48:10,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,48,3,18,0,0.12,24,nan,nan
-13/14/2095 3:48:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,49,3,18,0,nan,nan,0.03,nan
-13/14/2095 3:48:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,49,3,18,0,nan,nan,nan,6.50
-13/14/2095 3:48:36,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,49,3,19,0,0.06,26,nan,nan
-13/14/2095 3:51:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,50,3,19,0,nan,nan,0.28,nan
-13/14/2095 3:51:35,1.16.2,VAR INT,3,4.13,nan,1,Set VI,Right,2,50,3,19,0,nan,nan,nan,9.50
-13/14/2095 3:51:37,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,51,3,19,0,nan,nan,0.00,7.44
-13/14/2095 3:51:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,52,3,19,0,nan,nan,0.00,3.31
-13/14/2095 3:51:46,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,52,3,20,0,3.98,190,nan,nan
-13/14/2095 3:52:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,53,3,20,0,nan,nan,0.17,nan
-13/14/2095 3:52:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,53,3,20,0,nan,nan,nan,5.50
-13/14/2095 3:52:53,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,53,3,21,0,0.06,67,nan,nan
-13/14/2095 3:52:54,1.16.2,VAR INT,3,4.13,nan,1,WellPoke,Right,2,53,4,21,0,nan,nan,0.02,nan
-13/14/2095 3:53:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,54,4,21,0,nan,nan,0.04,nan
-13/14/2095 3:53:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,54,4,21,0,nan,nan,nan,5.50
-13/14/2095 3:53:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,55,4,21,0,nan,nan,0.03,2.27
-13/14/2095 3:53:15,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,55,4,22,0,0.49,21,nan,nan
-13/14/2095 3:53:37,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,56,4,22,0,nan,nan,0.05,nan
-13/14/2095 3:53:37,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,56,4,22,0,nan,nan,nan,7.50
-13/14/2095 3:53:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,57,4,22,0,nan,nan,0.04,1.03
-13/14/2095 3:53:43,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,57,4,23,0,0.06,29,nan,nan
-13/14/2095 3:53:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,58,4,23,0,nan,nan,0.29,nan
-13/14/2095 3:53:56,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,58,4,23,0,nan,nan,nan,5.50
-13/14/2095 3:53:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,59,4,23,0,nan,nan,0.06,3.14
-13/14/2095 3:54:01,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,59,4,24,0,0.61,18,nan,nan
-13/14/2095 3:57:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,60,4,24,0,nan,nan,0.02,nan
-13/14/2095 3:57:12,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,60,4,24,0,nan,nan,nan,5.50
-13/14/2095 3:57:15,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,61,4,24,0,nan,nan,0.00,1.97
-13/14/2095 3:57:17,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,61,4,25,0,0.06,196,nan,nan
-13/14/2095 3:57:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,62,4,25,0,nan,nan,0.07,nan
-13/14/2095 3:57:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,62,4,25,0,nan,nan,nan,12.50
-13/14/2095 3:57:51,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,63,4,25,0,nan,nan,0.00,8.67
-13/14/2095 3:57:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,64,4,25,0,nan,nan,0.00,4.53
-13/14/2095 3:57:57,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,64,4,26,0,0.06,40,nan,nan
-13/14/2095 3:57:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,65,4,26,0,nan,nan,0.00,nan
-13/14/2095 3:57:59,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,65,5,26,0,nan,nan,0.00,nan
-13/14/2095 3:57:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,65,5,26,0,nan,nan,nan,15.50
-13/14/2095 3:58:11,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,66,5,26,0,nan,nan,0.07,nan
-13/14/2095 3:58:11,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,67,5,26,0,nan,nan,0.09,nan
-13/14/2095 3:58:13,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,67,5,27,0,1.46,15,nan,nan
-13/14/2095 3:58:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,68,5,27,0,nan,nan,0.03,nan
-13/14/2095 3:58:55,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,68,5,27,0,nan,nan,nan,13.50
-13/14/2095 3:59:00,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,69,5,27,0,nan,nan,0.00,6.73
-13/14/2095 3:59:06,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,69,5,28,0,0.06,54,nan,nan
-13/14/2095 3:59:06,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,69,6,28,0,nan,nan,0.01,nan
-13/14/2095 3:59:14,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,70,6,28,0,nan,nan,0.03,nan
-13/14/2095 3:59:14,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,70,6,28,0,nan,nan,nan,2.50
-13/14/2095 3:59:17,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,71,6,28,0,nan,nan,0.05,nan
-13/14/2095 3:59:18,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,71,6,29,0,0.55,12,nan,nan
-13/14/2095 3:59:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,72,6,29,0,nan,nan,0.28,nan
-13/14/2095 3:59:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,72,6,29,0,nan,nan,nan,16.50
-13/14/2095 3:59:47,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,72,6,30,0,0.06,28,nan,nan
-13/14/2095 4:00:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,73,6,30,0,nan,nan,0.03,nan
-13/14/2095 4:00:02,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,73,6,30,0,nan,nan,nan,9.50
-13/14/2095 4:00:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,74,6,30,0,nan,nan,0.00,0.67
-13/14/2095 4:00:10,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,74,6,31,0,0.42,24,nan,nan
-13/14/2095 4:00:24,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,75,6,31,0,nan,nan,0.06,nan
-13/14/2095 4:00:24,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,75,6,31,0,nan,nan,nan,4.50
-13/14/2095 4:00:27,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,76,6,31,0,nan,nan,0.00,1.85
-13/14/2095 4:00:28,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,76,6,32,0,0.24,18,nan,nan
-13/14/2095 4:00:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,77,6,32,0,nan,nan,0.11,nan
-13/14/2095 4:00:40,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,77,6,32,0,nan,nan,nan,3.50
-13/14/2095 4:00:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,78,6,32,0,nan,nan,0.00,0.85
-13/14/2095 4:00:43,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,78,6,33,0,0.12,15,nan,nan
-13/14/2095 4:05:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,79,6,33,0,nan,nan,0.20,nan
-13/14/2095 4:05:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,79,6,33,0,nan,nan,nan,12.50
-13/14/2095 4:06:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,80,6,33,0,nan,nan,0.00,9.56
-13/14/2095 4:06:05,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,81,6,33,0,nan,nan,0.00,4.82
-13/14/2095 4:06:09,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,82,6,33,0,nan,nan,0.03,nan
-13/14/2095 4:06:16,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,82,6,34,0,5.21,333,nan,nan
-13/14/2095 4:06:32,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,83,6,34,0,nan,nan,0.03,nan
-13/14/2095 4:06:32,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,83,6,34,0,nan,nan,nan,17.50
-13/14/2095 4:06:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,84,6,34,0,nan,nan,0.03,15.15
-13/14/2095 4:06:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,85,6,34,0,nan,nan,0.00,10.35
-13/14/2095 4:06:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,86,6,34,0,nan,nan,0.16,1.20
-13/14/2095 4:06:49,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,86,6,35,0,0.06,33,nan,nan
-13/14/2095 4:07:03,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,87,6,35,0,nan,nan,0.04,nan
-13/14/2095 4:07:03,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,87,6,35,0,nan,nan,nan,17.50
-13/14/2095 4:07:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,88,6,35,0,nan,nan,0.00,13.97
-13/14/2095 4:07:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,89,6,35,0,nan,nan,0.00,10.42
-13/14/2095 4:07:17,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,89,6,36,0,1.40,28,nan,nan
-13/14/2095 4:07:29,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,90,6,36,0,nan,nan,0.01,nan
-13/14/2095 4:07:29,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,90,6,36,0,nan,nan,nan,2.50
-13/14/2095 4:07:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,91,6,36,0,nan,nan,0.04,1.91
-13/14/2095 4:07:32,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,91,6,37,0,0.91,15,nan,nan
-13/14/2095 4:08:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,92,6,37,0,nan,nan,0.11,nan
-13/14/2095 4:08:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,92,6,37,0,nan,nan,nan,15.50
-13/14/2095 4:09:01,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,93,6,37,0,nan,nan,0.08,13.44
-13/14/2095 4:09:04,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,94,6,37,0,nan,nan,0.02,9.73
-13/14/2095 4:09:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,95,6,37,0,nan,nan,0.10,6.14
-13/14/2095 4:09:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,96,6,37,0,nan,nan,0.70,2.39
-13/14/2095 4:09:10,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,96,6,38,0,0.06,98,nan,nan
-13/14/2095 4:09:20,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,97,6,38,0,nan,nan,0.07,nan
-13/14/2095 4:09:21,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,97,6,38,0,nan,nan,nan,10.50
-13/14/2095 4:09:22,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,98,6,38,0,nan,nan,0.00,9.91
-13/14/2095 4:09:24,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,99,6,38,0,nan,nan,0.00,6.35
-13/14/2095 4:09:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,100,6,38,0,nan,nan,0.04,3.38
-13/14/2095 4:09:28,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,100,6,39,0,0.06,18,nan,nan
-13/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,101,6,39,0,nan,nan,0.00,nan
-13/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,101,7,39,0,nan,nan,0.08,nan
-13/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,101,7,39,0,nan,nan,nan,5.50
-13/14/2095 4:09:36,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,102,7,39,0,nan,nan,0.01,nan
-13/14/2095 4:09:37,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,102,7,40,0,1.93,9,nan,nan
-13/14/2095 4:14:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,103,7,40,0,nan,nan,0.12,nan
-13/14/2095 4:14:49,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,103,7,40,0,nan,nan,nan,16.50
-13/14/2095 4:14:50,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,104,7,40,0,nan,nan,0.21,15.32
-13/14/2095 4:14:53,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,105,7,40,0,nan,nan,0.00,10.47
-13/14/2095 4:14:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,106,7,40,0,nan,nan,0.02,6.92
-13/14/2095 4:14:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,107,7,40,0,nan,nan,0.06,3.31
-13/14/2095 4:15:00,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,107,7,41,0,0.06,323,nan,nan
-13/14/2095 4:15:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,108,7,41,0,nan,nan,0.05,nan
-13/14/2095 4:15:18,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,108,7,41,0,nan,nan,nan,14.50
-13/14/2095 4:15:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,109,7,41,0,nan,nan,0.00,11.56
-13/14/2095 4:15:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,110,7,41,0,nan,nan,0.00,8.30
-13/14/2095 4:15:25,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,111,7,41,0,nan,nan,0.14,4.75
-13/14/2095 4:15:29,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,111,7,42,0,0.06,29,nan,nan
-13/14/2095 4:15:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,112,7,42,0,nan,nan,0.02,nan
-13/14/2095 4:15:54,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,112,7,42,0,nan,nan,nan,11.50
-13/14/2095 4:15:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,113,7,42,0,nan,nan,0.03,9.15
-13/14/2095 4:15:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,114,7,42,0,nan,nan,0.08,6.13
-13/14/2095 4:16:03,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,115,7,42,0,nan,nan,0.10,nan
-13/14/2095 4:16:03,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,115,7,43,0,0.42,34,nan,nan
-13/14/2095 4:21:36,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,116,7,43,0,nan,nan,0.39,nan
-13/14/2095 4:21:36,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,116,7,43,0,nan,nan,nan,2.50
-13/14/2095 4:21:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,117,7,43,0,nan,nan,0.00,0.74
-13/14/2095 4:21:40,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,117,7,44,0,1.53,337,nan,nan
-13/14/2095 4:21:49,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,118,7,44,0,nan,nan,0.09,nan
-13/14/2095 4:21:49,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,118,7,44,0,nan,nan,nan,7.50
-13/14/2095 4:21:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,119,7,44,0,nan,nan,0.01,5.74
-13/14/2095 4:21:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,120,7,44,0,nan,nan,0.10,1.28
-13/14/2095 4:22:05,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,120,7,45,0,7.30,24,nan,nan
-13/14/2095 4:22:22,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,121,7,45,0,nan,nan,0.32,nan
-13/14/2095 4:22:22,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,121,7,45,0,nan,nan,nan,17.50
-13/14/2095 4:22:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,122,7,45,0,nan,nan,0.00,12.21
-13/14/2095 4:22:36,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,122,7,46,0,1.16,32,nan,nan
-13/14/2095 4:22:57,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,123,7,46,0,nan,nan,0.13,nan
-13/14/2095 4:22:57,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,123,7,46,0,nan,nan,nan,15.50
-13/14/2095 4:23:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,124,7,46,0,nan,nan,0.00,9.02
-13/14/2095 4:23:05,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,125,7,46,0,nan,nan,0.10,4.58
-13/14/2095 4:23:09,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,125,7,47,0,0.49,33,nan,nan
-13/14/2095 4:23:15,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,126,7,47,0,nan,nan,0.06,nan
-13/14/2095 4:23:15,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,126,7,47,0,nan,nan,nan,17.50
-13/14/2095 4:23:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,127,7,47,0,nan,nan,0.09,14.85
-13/14/2095 4:23:20,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,128,7,47,0,nan,nan,0.00,11.11
-13/14/2095 4:23:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,129,7,47,0,nan,nan,0.03,6.08
-13/14/2095 4:23:28,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,130,7,47,0,nan,nan,0.05,nan
-13/14/2095 4:23:35,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,130,7,48,0,4.54,26,nan,nan
-13/14/2095 4:27:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,131,7,48,0,nan,nan,0.12,nan
-13/14/2095 4:27:17,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,131,7,48,0,nan,nan,nan,8.50
-13/14/2095 4:27:19,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,132,7,48,0,nan,nan,0.01,7.32
-13/14/2095 4:27:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,133,7,48,0,nan,nan,0.00,4.03
-13/14/2095 4:27:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,134,7,48,0,nan,nan,0.09,0.48
-13/14/2095 4:27:25,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,134,7,49,0,0.06,229,nan,nan
-13/14/2095 4:27:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,135,7,49,0,nan,nan,0.16,nan
-13/14/2095 4:27:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,135,7,49,0,nan,nan,nan,13.50
-13/14/2095 4:27:49,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,136,7,49,0,nan,nan,0.15,12.32
-13/14/2095 4:27:52,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,137,7,49,0,nan,nan,0.02,8.76
-13/14/2095 4:27:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,138,7,49,0,nan,nan,0.00,5.17
-13/14/2095 4:27:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,139,7,49,0,nan,nan,0.00,1.32
-13/14/2095 4:27:58,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,139,7,50,0,0.12,34,nan,nan
-13/14/2095 4:28:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,140,7,50,0,nan,nan,0.19,nan
-13/14/2095 4:28:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,140,7,50,0,nan,nan,nan,2.50
-13/14/2095 4:28:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,141,7,50,0,nan,nan,0.00,0.44
-13/14/2095 4:28:10,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,141,7,51,0,0.18,12,nan,nan
-13/14/2095 4:28:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,142,7,51,0,nan,nan,0.20,nan
-13/14/2095 4:28:23,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,142,7,51,0,nan,nan,nan,2.50
-13/14/2095 4:28:25,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,143,7,51,0,nan,nan,0.01,1.03
-13/14/2095 4:28:26,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,143,7,52,0,0.06,16,nan,nan
-13/14/2095 4:28:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,144,7,52,0,nan,nan,0.04,nan
-13/14/2095 4:28:35,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,144,7,52,0,nan,nan,nan,7.50
-13/14/2095 4:28:41,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,144,7,53,0,0.55,15,nan,nan
-13/14/2095 4:35:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,145,7,53,0,nan,nan,0.03,nan
-13/14/2095 4:35:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,145,7,53,0,nan,nan,nan,15.50
-13/14/2095 4:35:10,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,146,7,53,0,nan,nan,0.03,14.32
-13/14/2095 4:35:19,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,147,7,53,0,nan,nan,0.00,2.47
-13/14/2095 4:35:21,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,147,7,54,0,0.55,400,nan,nan
-13/14/2095 4:45:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,148,7,54,0,nan,nan,0.03,nan
-13/14/2095 4:45:44,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,148,7,54,0,nan,nan,nan,13.50
-13/14/2095 4:45:54,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,148,7,55,0,0.06,633,nan,nan
-13/14/2095 4:56:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,149,7,55,0,nan,nan,0.62,nan
-13/14/2095 4:56:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,149,7,55,0,nan,nan,nan,10.50
-13/14/2095 4:57:01,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,150,7,55,0,nan,nan,0.00,7.85
-13/14/2095 4:57:07,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,151,7,55,0,nan,nan,0.03,nan
-13/14/2095 4:57:08,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,151,7,56,0,0.67,674,nan,nan
-13/14/2095 4:57:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,152,7,56,0,nan,nan,0.14,nan
-13/14/2095 4:57:27,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,152,7,56,0,nan,nan,nan,9.50
-13/14/2095 4:57:29,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,153,7,56,0,nan,nan,0.01,7.15
-13/14/2095 4:57:35,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,153,7,57,0,1.16,27,nan,nan
-13/14/2095 4:57:45,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,154,7,57,0,nan,nan,0.19,nan
-13/14/2095 4:57:45,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,154,7,57,0,nan,nan,nan,7.50
-13/14/2095 4:57:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,155,7,57,0,nan,nan,0.00,3.68
-13/14/2095 4:57:52,1.16.2,VAR INT,3,4.11,1,1,Pellet,Right,2,155,7,58,0,0.79,17,nan,nan
-13/14/2095 5:07:11,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,156,7,58,0,nan,nan,0.14,nan
-13/14/2095 5:07:11,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,156,7,58,0,nan,nan,nan,2.50
-13/14/2095 5:07:13,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,157,7,58,0,nan,nan,0.01,1.62
-13/14/2095 5:07:14,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,157,7,59,0,0.24,562,nan,nan
-13/14/2095 5:07:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,158,7,59,0,nan,nan,0.09,nan
-13/14/2095 5:07:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,158,7,59,0,nan,nan,nan,15.50
-13/14/2095 5:07:33,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,159,7,59,0,nan,nan,0.00,13.14
-13/14/2095 5:07:42,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,159,7,60,0,0.06,28,nan,nan
-13/14/2095 5:08:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,160,7,60,0,nan,nan,0.08,nan
-13/14/2095 5:08:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,160,7,60,0,nan,nan,nan,9.50
-13/14/2095 5:08:13,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,161,7,60,0,nan,nan,0.00,2.13
-13/14/2095 5:08:15,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,162,7,60,0,nan,nan,0.16,nan
-13/14/2095 5:08:16,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,162,7,61,0,1.65,34,nan,nan
-13/14/2095 5:08:27,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,163,7,61,0,nan,nan,0.08,nan
-13/14/2095 5:08:27,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,163,7,61,0,nan,nan,nan,9.50
-13/14/2095 5:08:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,164,7,61,0,nan,nan,0.00,6.85
-13/14/2095 5:08:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,165,7,61,0,nan,nan,0.05,0.05
-13/14/2095 5:08:36,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,165,7,62,0,0.06,19,nan,nan
-13/14/2095 5:08:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,166,7,62,0,nan,nan,0.15,nan
-13/14/2095 5:08:58,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,166,7,62,0,nan,nan,nan,10.50
-13/14/2095 5:09:06,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,167,7,62,0,nan,nan,0.03,nan
-13/14/2095 5:09:13,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,167,7,63,0,3.68,38,nan,nan
-13/14/2095 5:15:39,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,168,7,63,0,nan,nan,0.16,nan
-13/14/2095 5:15:39,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,168,7,63,0,nan,nan,nan,9.50
-13/14/2095 5:15:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,169,7,63,0,nan,nan,0.09,7.44
-13/14/2095 5:15:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,170,7,63,0,nan,nan,0.13,3.40
-13/14/2095 5:15:47,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,171,7,63,0,nan,nan,0.18,nan
-13/14/2095 5:15:47,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,171,7,64,0,1.18,394,nan,nan
-13/14/2095 5:16:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,172,7,64,0,nan,nan,0.06,nan
-13/14/2095 5:16:17,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,172,7,64,0,nan,nan,nan,2.50
-13/14/2095 5:16:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,173,7,64,0,nan,nan,0.02,2.50
-13/14/2095 5:16:20,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,173,7,65,0,0.06,33,nan,nan
-13/14/2095 5:16:25,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,173,8,65,0,nan,nan,0.11,nan
-13/14/2095 5:16:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,174,8,65,0,nan,nan,0.05,nan
-13/14/2095 5:16:38,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,174,8,65,0,nan,nan,nan,5.50
-13/14/2095 5:16:43,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,174,8,66,0,0.36,23,nan,nan
-13/14/2095 5:16:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,175,8,66,0,nan,nan,0.04,nan
-13/14/2095 5:16:57,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,175,8,66,0,nan,nan,nan,3.50
-13/14/2095 5:17:00,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,176,8,66,0,nan,nan,0.04,nan
-13/14/2095 5:17:01,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,176,8,67,0,0.06,18,nan,nan
-13/14/2095 5:17:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,177,8,67,0,nan,nan,0.03,nan
-13/14/2095 5:17:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,177,8,67,0,nan,nan,nan,6.50
-13/14/2095 5:17:53,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,177,8,68,0,0.06,52,nan,nan
-13/14/2095 5:18:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,178,8,68,0,nan,nan,0.03,nan
-13/14/2095 5:18:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,178,8,68,0,nan,nan,nan,17.50
-13/14/2095 5:18:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,179,8,68,0,nan,nan,0.07,15.14
-13/14/2095 5:18:16,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,180,8,68,0,nan,nan,0.05,8.79
-13/14/2095 5:18:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,181,8,68,0,nan,nan,0.00,4.84
-13/14/2095 5:18:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,182,8,68,0,nan,nan,0.02,0.40
-13/14/2095 5:18:22,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,182,8,69,0,0.06,29,nan,nan
-13/14/2095 5:18:40,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,183,8,69,0,nan,nan,0.15,nan
-13/14/2095 5:18:40,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,183,8,69,0,nan,nan,nan,16.50
-13/14/2095 5:18:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,184,8,69,0,nan,nan,0.15,14.14
-13/14/2095 5:18:52,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,184,8,70,0,0.06,30,nan,nan
-13/14/2095 5:19:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,185,8,70,0,nan,nan,0.02,nan
-13/14/2095 5:19:13,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,185,8,70,0,nan,nan,nan,16.50
-13/14/2095 5:19:26,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,185,8,71,0,0.55,34,nan,nan
-13/14/2095 5:21:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,186,8,71,0,nan,nan,0.17,nan
-13/14/2095 5:21:08,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,186,8,71,0,nan,nan,nan,2.50
-13/14/2095 5:21:12,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,186,8,72,0,1.96,106,nan,nan
-13/14/2095 5:29:46,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,187,8,72,0,nan,nan,0.15,nan
-13/14/2095 5:29:46,1.16.2,VAR INT,3,4.11,nan,1,Set VI,Right,2,187,8,72,0,nan,nan,nan,17.50
-13/14/2095 5:29:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,188,8,72,0,nan,nan,0.00,15.14
-13/14/2095 5:29:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,189,8,72,0,nan,nan,0.12,11.59
-13/14/2095 5:29:55,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,190,8,72,0,nan,nan,0.18,5.72
-13/14/2095 5:29:59,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,190,8,73,0,0.48,527,nan,nan
-13/14/2095 5:30:12,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,191,8,73,0,nan,nan,0.08,nan
-13/14/2095 5:30:12,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,191,8,73,0,nan,nan,nan,2.50
-13/14/2095 5:30:15,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,191,8,74,0,0.30,16,nan,nan
-13/14/2095 5:30:33,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,192,8,74,0,nan,nan,0.04,nan
-13/14/2095 5:30:33,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,192,8,74,0,nan,nan,nan,13.50
-13/14/2095 5:30:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,193,8,74,0,nan,nan,0.02,3.19
-13/14/2095 5:30:46,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,193,8,75,0,1.34,31,nan,nan
+12/14/2095 3:31:47,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,1,0,0,0,nan,nan,0.44,nan
+12/14/2095 3:31:48,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,1,0,1,0,0.06,nan,nan,nan
+12/14/2095 3:32:04,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,2,0,1,0,nan,nan,0.11,nan
+12/14/2095 3:32:04,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,2,0,1,0,nan,nan,nan,16.50
+12/14/2095 3:32:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,3,0,1,0,nan,nan,0.05,14.16
+12/14/2095 3:32:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,4,0,1,0,nan,nan,0.01,11.10
+12/14/2095 3:33:17,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,4,0,2,0,Timed_out,89,nan,nan
+12/14/2095 3:33:30,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,5,0,2,0,nan,nan,0.00,nan
+12/14/2095 3:33:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,5,0,2,0,nan,nan,nan,8.50
+12/14/2095 3:33:37,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,6,0,2,0,nan,nan,0.45,0.58
+12/14/2095 3:33:39,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,0,6,0,3,0,1.71,22,nan,nan
+12/14/2095 3:33:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,7,0,3,0,nan,nan,0.11,nan
+12/14/2095 3:33:47,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,7,0,3,0,nan,nan,nan,9.50
+12/14/2095 3:33:50,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,8,0,3,0,nan,nan,0.00,6.28
+12/14/2095 3:33:54,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,9,0,3,0,nan,nan,0.00,0.69
+12/14/2095 3:33:55,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,9,0,4,0,0.24,16,nan,nan
+12/14/2095 3:34:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,10,0,4,0,nan,nan,0.13,nan
+12/14/2095 3:34:08,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,10,0,4,0,nan,nan,nan,2.50
+12/14/2095 3:34:10,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,11,0,4,0,nan,nan,0.05,0.45
+12/14/2095 3:34:11,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,11,0,5,0,0.42,16,nan,nan
+12/14/2095 3:34:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,12,0,5,0,nan,nan,0.02,nan
+12/14/2095 3:34:23,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,12,0,5,0,nan,nan,nan,5.50
+12/14/2095 3:34:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,13,0,5,0,nan,nan,0.00,2.86
+12/14/2095 3:34:29,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,0,14,0,5,0,nan,nan,0.14,nan
+12/14/2095 3:34:30,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,14,0,6,0,2.00,18,nan,nan
+12/14/2095 3:34:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,15,0,6,0,nan,nan,0.02,nan
+12/14/2095 3:34:38,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,15,0,6,0,nan,nan,nan,2.50
+12/14/2095 3:34:39,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,16,0,6,0,nan,nan,0.13,1.62
+12/14/2095 3:34:41,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,0,16,0,7,0,0.12,12,nan,nan
+12/14/2095 3:34:52,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,0,17,0,7,0,nan,nan,0.12,nan
+12/14/2095 3:34:53,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,17,0,7,0,nan,nan,nan,10.50
+12/14/2095 3:35:01,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,0,17,0,8,0,0.06,20,nan,nan
+12/14/2095 3:35:21,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,0,17,1,8,0,nan,nan,0.03,nan
+12/14/2095 3:35:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,18,1,8,0,nan,nan,0.35,nan
+12/14/2095 3:35:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,0,18,1,8,0,nan,nan,nan,15.50
+12/14/2095 3:35:32,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,0,19,1,8,0,nan,nan,0.00,14.03
+12/14/2095 3:35:38,1.16.2,VAR INT,3,4.12,nan,1,Left,Right,1,19,1,8,0,nan,nan,0.02,6.38
+12/14/2095 3:35:38,1.16.2,VAR INT,3,4.12,nan,1,Left,Right,2,19,1,8,0,nan,nan,0.00,5.15
+12/14/2095 3:35:45,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,19,1,9,0,2.88,44,nan,nan
+12/14/2095 3:36:11,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,20,1,9,0,nan,nan,0.19,nan
+12/14/2095 3:36:11,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,20,1,9,0,nan,nan,nan,17.50
+12/14/2095 3:36:14,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,21,1,9,0,nan,nan,0.00,14.27
+12/14/2095 3:36:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,22,1,9,0,nan,nan,0.09,10.13
+12/14/2095 3:36:24,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,22,1,10,0,0.06,39,nan,nan
+12/14/2095 3:36:25,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,22,2,10,0,nan,nan,0.03,nan
+12/14/2095 3:38:28,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,23,2,10,0,nan,nan,0.20,nan
+12/14/2095 3:38:28,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,23,2,10,0,nan,nan,nan,12.50
+12/14/2095 3:38:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,24,2,10,0,nan,nan,0.10,9.85
+12/14/2095 3:38:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,25,2,10,0,nan,nan,0.18,6.09
+12/14/2095 3:38:36,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,26,2,10,0,nan,nan,0.00,1.88
+12/14/2095 3:38:38,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,26,2,11,0,0.06,134,nan,nan
+12/14/2095 3:38:46,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,27,2,11,0,nan,nan,0.07,nan
+12/14/2095 3:38:46,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,27,2,11,0,nan,nan,nan,15.50
+12/14/2095 3:38:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,28,2,11,0,nan,nan,0.00,13.44
+12/14/2095 3:38:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,29,2,11,0,nan,nan,0.00,9.60
+12/14/2095 3:38:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,30,2,11,0,nan,nan,0.03,5.45
+12/14/2095 3:38:57,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,31,2,11,0,nan,nan,0.00,0.97
+12/14/2095 3:39:01,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,31,2,12,0,1.40,23,nan,nan
+12/14/2095 3:42:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,32,2,12,0,nan,nan,0.14,nan
+12/14/2095 3:42:39,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,32,2,12,0,nan,nan,nan,9.50
+12/14/2095 3:42:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,33,2,12,0,nan,nan,0.06,7.44
+12/14/2095 3:42:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,34,2,12,0,nan,nan,0.00,3.77
+12/14/2095 3:42:47,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,35,2,12,0,nan,nan,0.10,nan
+12/14/2095 3:42:48,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,35,2,13,0,1.15,226,nan,nan
+12/14/2095 3:42:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,36,2,13,0,nan,nan,0.33,nan
+12/14/2095 3:42:58,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,36,2,13,0,nan,nan,nan,8.50
+12/14/2095 3:43:03,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,37,2,13,0,nan,nan,0.06,2.91
+12/14/2095 3:43:05,1.16.2,VAR INT,3,4.09,nan,1,RightDuringDispense,Right,2,38,2,13,0,nan,nan,0.17,nan
+12/14/2095 3:43:06,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,38,2,14,0,0.06,19,nan,nan
+12/14/2095 3:46:45,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,39,2,14,0,nan,nan,0.07,nan
+12/14/2095 3:46:45,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,39,2,14,0,nan,nan,nan,3.50
+12/14/2095 3:46:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,40,2,14,0,nan,nan,0.02,2.03
+12/14/2095 3:46:48,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,40,2,15,0,0.06,222,nan,nan
+12/14/2095 3:47:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,41,2,15,0,nan,nan,0.52,nan
+12/14/2095 3:47:06,1.16.2,VAR INT,3,4.13,nan,1,Set VI,Right,2,41,2,15,0,nan,nan,nan,2.50
+12/14/2095 3:47:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,42,2,15,0,nan,nan,0.06,0.15
+12/14/2095 3:47:15,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,42,2,16,0,3.67,27,nan,nan
+12/14/2095 3:47:34,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,43,2,16,0,nan,nan,0.22,nan
+12/14/2095 3:47:34,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,43,2,16,0,nan,nan,nan,13.50
+12/14/2095 3:47:37,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,44,2,16,0,nan,nan,0.07,10.86
+12/14/2095 3:47:39,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,45,2,16,0,nan,nan,0.00,6.58
+12/14/2095 3:47:43,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,46,2,16,0,nan,nan,0.06,1.85
+12/14/2095 3:47:46,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,46,2,17,0,0.06,31,nan,nan
+12/14/2095 3:47:48,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,46,3,17,0,nan,nan,0.04,nan
+12/14/2095 3:48:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,47,3,17,0,nan,nan,0.02,nan
+12/14/2095 3:48:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,47,3,17,0,nan,nan,nan,2.50
+12/14/2095 3:48:09,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,48,3,17,0,nan,nan,0.01,nan
+12/14/2095 3:48:10,1.16.2,VAR INT,3,4.13,1,1,Pellet,Right,2,48,3,18,0,0.12,24,nan,nan
+12/14/2095 3:48:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,49,3,18,0,nan,nan,0.03,nan
+12/14/2095 3:48:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,49,3,18,0,nan,nan,nan,6.50
+12/14/2095 3:48:36,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,49,3,19,0,0.06,26,nan,nan
+12/14/2095 3:51:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,50,3,19,0,nan,nan,0.28,nan
+12/14/2095 3:51:35,1.16.2,VAR INT,3,4.13,nan,1,Set VI,Right,2,50,3,19,0,nan,nan,nan,9.50
+12/14/2095 3:51:37,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,51,3,19,0,nan,nan,0.00,7.44
+12/14/2095 3:51:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,52,3,19,0,nan,nan,0.00,3.31
+12/14/2095 3:51:46,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,52,3,20,0,3.98,190,nan,nan
+12/14/2095 3:52:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,53,3,20,0,nan,nan,0.17,nan
+12/14/2095 3:52:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,53,3,20,0,nan,nan,nan,5.50
+12/14/2095 3:52:53,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,53,3,21,0,0.06,67,nan,nan
+12/14/2095 3:52:54,1.16.2,VAR INT,3,4.13,nan,1,WellPoke,Right,2,53,4,21,0,nan,nan,0.02,nan
+12/14/2095 3:53:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,54,4,21,0,nan,nan,0.04,nan
+12/14/2095 3:53:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,54,4,21,0,nan,nan,nan,5.50
+12/14/2095 3:53:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,55,4,21,0,nan,nan,0.03,2.27
+12/14/2095 3:53:15,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,55,4,22,0,0.49,21,nan,nan
+12/14/2095 3:53:37,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,56,4,22,0,nan,nan,0.05,nan
+12/14/2095 3:53:37,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,56,4,22,0,nan,nan,nan,7.50
+12/14/2095 3:53:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,57,4,22,0,nan,nan,0.04,1.03
+12/14/2095 3:53:43,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,57,4,23,0,0.06,29,nan,nan
+12/14/2095 3:53:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,58,4,23,0,nan,nan,0.29,nan
+12/14/2095 3:53:56,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,58,4,23,0,nan,nan,nan,5.50
+12/14/2095 3:53:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,59,4,23,0,nan,nan,0.06,3.14
+12/14/2095 3:54:01,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,59,4,24,0,0.61,18,nan,nan
+12/14/2095 3:57:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,60,4,24,0,nan,nan,0.02,nan
+12/14/2095 3:57:12,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,60,4,24,0,nan,nan,nan,5.50
+12/14/2095 3:57:15,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,61,4,24,0,nan,nan,0.00,1.97
+12/14/2095 3:57:17,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,61,4,25,0,0.06,196,nan,nan
+12/14/2095 3:57:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,62,4,25,0,nan,nan,0.07,nan
+12/14/2095 3:57:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,62,4,25,0,nan,nan,nan,12.50
+12/14/2095 3:57:51,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,63,4,25,0,nan,nan,0.00,8.67
+12/14/2095 3:57:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,64,4,25,0,nan,nan,0.00,4.53
+12/14/2095 3:57:57,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,64,4,26,0,0.06,40,nan,nan
+12/14/2095 3:57:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,65,4,26,0,nan,nan,0.00,nan
+12/14/2095 3:57:59,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,65,5,26,0,nan,nan,0.00,nan
+12/14/2095 3:57:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,65,5,26,0,nan,nan,nan,15.50
+12/14/2095 3:58:11,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,66,5,26,0,nan,nan,0.07,nan
+12/14/2095 3:58:11,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,67,5,26,0,nan,nan,0.09,nan
+12/14/2095 3:58:13,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,67,5,27,0,1.46,15,nan,nan
+12/14/2095 3:58:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,68,5,27,0,nan,nan,0.03,nan
+12/14/2095 3:58:55,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,68,5,27,0,nan,nan,nan,13.50
+12/14/2095 3:59:00,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,69,5,27,0,nan,nan,0.00,6.73
+12/14/2095 3:59:06,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,69,5,28,0,0.06,54,nan,nan
+12/14/2095 3:59:06,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,69,6,28,0,nan,nan,0.01,nan
+12/14/2095 3:59:14,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,70,6,28,0,nan,nan,0.03,nan
+12/14/2095 3:59:14,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,70,6,28,0,nan,nan,nan,2.50
+12/14/2095 3:59:17,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,71,6,28,0,nan,nan,0.05,nan
+12/14/2095 3:59:18,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,71,6,29,0,0.55,12,nan,nan
+12/14/2095 3:59:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,72,6,29,0,nan,nan,0.28,nan
+12/14/2095 3:59:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,72,6,29,0,nan,nan,nan,16.50
+12/14/2095 3:59:47,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,72,6,30,0,0.06,28,nan,nan
+12/14/2095 4:00:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,73,6,30,0,nan,nan,0.03,nan
+12/14/2095 4:00:02,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,73,6,30,0,nan,nan,nan,9.50
+12/14/2095 4:00:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,74,6,30,0,nan,nan,0.00,0.67
+12/14/2095 4:00:10,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,74,6,31,0,0.42,24,nan,nan
+12/14/2095 4:00:24,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,75,6,31,0,nan,nan,0.06,nan
+12/14/2095 4:00:24,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,75,6,31,0,nan,nan,nan,4.50
+12/14/2095 4:00:27,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,76,6,31,0,nan,nan,0.00,1.85
+12/14/2095 4:00:28,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,76,6,32,0,0.24,18,nan,nan
+12/14/2095 4:00:39,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,77,6,32,0,nan,nan,0.11,nan
+12/14/2095 4:00:40,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,77,6,32,0,nan,nan,nan,3.50
+12/14/2095 4:00:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,78,6,32,0,nan,nan,0.00,0.85
+12/14/2095 4:00:43,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,78,6,33,0,0.12,15,nan,nan
+12/14/2095 4:05:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,79,6,33,0,nan,nan,0.20,nan
+12/14/2095 4:05:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,79,6,33,0,nan,nan,nan,12.50
+12/14/2095 4:06:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,80,6,33,0,nan,nan,0.00,9.56
+12/14/2095 4:06:05,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,81,6,33,0,nan,nan,0.00,4.82
+12/14/2095 4:06:09,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,82,6,33,0,nan,nan,0.03,nan
+12/14/2095 4:06:16,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,82,6,34,0,5.21,333,nan,nan
+12/14/2095 4:06:32,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,83,6,34,0,nan,nan,0.03,nan
+12/14/2095 4:06:32,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,83,6,34,0,nan,nan,nan,17.50
+12/14/2095 4:06:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,84,6,34,0,nan,nan,0.03,15.15
+12/14/2095 4:06:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,85,6,34,0,nan,nan,0.00,10.35
+12/14/2095 4:06:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,86,6,34,0,nan,nan,0.16,1.20
+12/14/2095 4:06:49,1.16.2,VAR INT,3,4.12,3,1,Pellet,Right,2,86,6,35,0,0.06,33,nan,nan
+12/14/2095 4:07:03,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,87,6,35,0,nan,nan,0.04,nan
+12/14/2095 4:07:03,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,87,6,35,0,nan,nan,nan,17.50
+12/14/2095 4:07:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,88,6,35,0,nan,nan,0.00,13.97
+12/14/2095 4:07:08,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,89,6,35,0,nan,nan,0.00,10.42
+12/14/2095 4:07:17,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,89,6,36,0,1.40,28,nan,nan
+12/14/2095 4:07:29,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,90,6,36,0,nan,nan,0.01,nan
+12/14/2095 4:07:29,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,90,6,36,0,nan,nan,nan,2.50
+12/14/2095 4:07:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,91,6,36,0,nan,nan,0.04,1.91
+12/14/2095 4:07:32,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,91,6,37,0,0.91,15,nan,nan
+12/14/2095 4:08:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,92,6,37,0,nan,nan,0.11,nan
+12/14/2095 4:08:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,92,6,37,0,nan,nan,nan,15.50
+12/14/2095 4:09:01,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,93,6,37,0,nan,nan,0.08,13.44
+12/14/2095 4:09:04,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,94,6,37,0,nan,nan,0.02,9.73
+12/14/2095 4:09:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,95,6,37,0,nan,nan,0.10,6.14
+12/14/2095 4:09:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,96,6,37,0,nan,nan,0.70,2.39
+12/14/2095 4:09:10,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,96,6,38,0,0.06,98,nan,nan
+12/14/2095 4:09:20,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,97,6,38,0,nan,nan,0.07,nan
+12/14/2095 4:09:21,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,97,6,38,0,nan,nan,nan,10.50
+12/14/2095 4:09:22,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,98,6,38,0,nan,nan,0.00,9.91
+12/14/2095 4:09:24,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,99,6,38,0,nan,nan,0.00,6.35
+12/14/2095 4:09:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,100,6,38,0,nan,nan,0.04,3.38
+12/14/2095 4:09:28,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,100,6,39,0,0.06,18,nan,nan
+12/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,101,6,39,0,nan,nan,0.00,nan
+12/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,101,7,39,0,nan,nan,0.08,nan
+12/14/2095 4:09:30,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,101,7,39,0,nan,nan,nan,5.50
+12/14/2095 4:09:36,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,102,7,39,0,nan,nan,0.01,nan
+12/14/2095 4:09:37,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,102,7,40,0,1.93,9,nan,nan
+12/14/2095 4:14:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,103,7,40,0,nan,nan,0.12,nan
+12/14/2095 4:14:49,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,103,7,40,0,nan,nan,nan,16.50
+12/14/2095 4:14:50,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,104,7,40,0,nan,nan,0.21,15.32
+12/14/2095 4:14:53,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,105,7,40,0,nan,nan,0.00,10.47
+12/14/2095 4:14:55,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,106,7,40,0,nan,nan,0.02,6.92
+12/14/2095 4:14:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,107,7,40,0,nan,nan,0.06,3.31
+12/14/2095 4:15:00,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,107,7,41,0,0.06,323,nan,nan
+12/14/2095 4:15:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,108,7,41,0,nan,nan,0.05,nan
+12/14/2095 4:15:18,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,108,7,41,0,nan,nan,nan,14.50
+12/14/2095 4:15:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,109,7,41,0,nan,nan,0.00,11.56
+12/14/2095 4:15:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,110,7,41,0,nan,nan,0.00,8.30
+12/14/2095 4:15:25,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,111,7,41,0,nan,nan,0.14,4.75
+12/14/2095 4:15:29,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,111,7,42,0,0.06,29,nan,nan
+12/14/2095 4:15:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,112,7,42,0,nan,nan,0.02,nan
+12/14/2095 4:15:54,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,112,7,42,0,nan,nan,nan,11.50
+12/14/2095 4:15:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,113,7,42,0,nan,nan,0.03,9.15
+12/14/2095 4:15:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,114,7,42,0,nan,nan,0.08,6.13
+12/14/2095 4:16:03,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,115,7,42,0,nan,nan,0.10,nan
+12/14/2095 4:16:03,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,115,7,43,0,0.42,34,nan,nan
+12/14/2095 4:21:36,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,116,7,43,0,nan,nan,0.39,nan
+12/14/2095 4:21:36,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,116,7,43,0,nan,nan,nan,2.50
+12/14/2095 4:21:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,117,7,43,0,nan,nan,0.00,0.74
+12/14/2095 4:21:40,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,117,7,44,0,1.53,337,nan,nan
+12/14/2095 4:21:49,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,118,7,44,0,nan,nan,0.09,nan
+12/14/2095 4:21:49,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,118,7,44,0,nan,nan,nan,7.50
+12/14/2095 4:21:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,119,7,44,0,nan,nan,0.01,5.74
+12/14/2095 4:21:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,120,7,44,0,nan,nan,0.10,1.28
+12/14/2095 4:22:05,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,120,7,45,0,7.30,24,nan,nan
+12/14/2095 4:22:22,1.16.2,VAR INT,3,4.13,nan,1,Right,Right,2,121,7,45,0,nan,nan,0.32,nan
+12/14/2095 4:22:22,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,121,7,45,0,nan,nan,nan,17.50
+12/14/2095 4:22:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,122,7,45,0,nan,nan,0.00,12.21
+12/14/2095 4:22:36,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,122,7,46,0,1.16,32,nan,nan
+12/14/2095 4:22:57,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,123,7,46,0,nan,nan,0.13,nan
+12/14/2095 4:22:57,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,123,7,46,0,nan,nan,nan,15.50
+12/14/2095 4:23:02,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,124,7,46,0,nan,nan,0.00,9.02
+12/14/2095 4:23:05,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,125,7,46,0,nan,nan,0.10,4.58
+12/14/2095 4:23:09,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,125,7,47,0,0.49,33,nan,nan
+12/14/2095 4:23:15,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,126,7,47,0,nan,nan,0.06,nan
+12/14/2095 4:23:15,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,126,7,47,0,nan,nan,nan,17.50
+12/14/2095 4:23:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,127,7,47,0,nan,nan,0.09,14.85
+12/14/2095 4:23:20,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,128,7,47,0,nan,nan,0.00,11.11
+12/14/2095 4:23:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,129,7,47,0,nan,nan,0.03,6.08
+12/14/2095 4:23:28,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,130,7,47,0,nan,nan,0.05,nan
+12/14/2095 4:23:35,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,130,7,48,0,4.54,26,nan,nan
+12/14/2095 4:27:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,131,7,48,0,nan,nan,0.12,nan
+12/14/2095 4:27:17,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,131,7,48,0,nan,nan,nan,8.50
+12/14/2095 4:27:19,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,132,7,48,0,nan,nan,0.01,7.32
+12/14/2095 4:27:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,133,7,48,0,nan,nan,0.00,4.03
+12/14/2095 4:27:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,134,7,48,0,nan,nan,0.09,0.48
+12/14/2095 4:27:25,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,134,7,49,0,0.06,229,nan,nan
+12/14/2095 4:27:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,135,7,49,0,nan,nan,0.16,nan
+12/14/2095 4:27:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,135,7,49,0,nan,nan,nan,13.50
+12/14/2095 4:27:49,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,136,7,49,0,nan,nan,0.15,12.32
+12/14/2095 4:27:52,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,137,7,49,0,nan,nan,0.02,8.76
+12/14/2095 4:27:54,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,138,7,49,0,nan,nan,0.00,5.17
+12/14/2095 4:27:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,139,7,49,0,nan,nan,0.00,1.32
+12/14/2095 4:27:58,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,139,7,50,0,0.12,34,nan,nan
+12/14/2095 4:28:06,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,140,7,50,0,nan,nan,0.19,nan
+12/14/2095 4:28:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,140,7,50,0,nan,nan,nan,2.50
+12/14/2095 4:28:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,141,7,50,0,nan,nan,0.00,0.44
+12/14/2095 4:28:10,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,141,7,51,0,0.18,12,nan,nan
+12/14/2095 4:28:23,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,142,7,51,0,nan,nan,0.20,nan
+12/14/2095 4:28:23,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,142,7,51,0,nan,nan,nan,2.50
+12/14/2095 4:28:25,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,143,7,51,0,nan,nan,0.01,1.03
+12/14/2095 4:28:26,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,143,7,52,0,0.06,16,nan,nan
+12/14/2095 4:28:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,144,7,52,0,nan,nan,0.04,nan
+12/14/2095 4:28:35,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,144,7,52,0,nan,nan,nan,7.50
+12/14/2095 4:28:41,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,144,7,53,0,0.55,15,nan,nan
+12/14/2095 4:35:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,145,7,53,0,nan,nan,0.03,nan
+12/14/2095 4:35:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,145,7,53,0,nan,nan,nan,15.50
+12/14/2095 4:35:10,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,146,7,53,0,nan,nan,0.03,14.32
+12/14/2095 4:35:19,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,147,7,53,0,nan,nan,0.00,2.47
+12/14/2095 4:35:21,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,147,7,54,0,0.55,400,nan,nan
+12/14/2095 4:45:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,148,7,54,0,nan,nan,0.03,nan
+12/14/2095 4:45:44,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,148,7,54,0,nan,nan,nan,13.50
+12/14/2095 4:45:54,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,148,7,55,0,0.06,633,nan,nan
+12/14/2095 4:56:59,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,149,7,55,0,nan,nan,0.62,nan
+12/14/2095 4:56:59,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,149,7,55,0,nan,nan,nan,10.50
+12/14/2095 4:57:01,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,150,7,55,0,nan,nan,0.00,7.85
+12/14/2095 4:57:07,1.16.2,VAR INT,3,4.08,nan,1,RightDuringDispense,Right,2,151,7,55,0,nan,nan,0.03,nan
+12/14/2095 4:57:08,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,151,7,56,0,0.67,674,nan,nan
+12/14/2095 4:57:26,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,152,7,56,0,nan,nan,0.14,nan
+12/14/2095 4:57:27,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,152,7,56,0,nan,nan,nan,9.50
+12/14/2095 4:57:29,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,153,7,56,0,nan,nan,0.01,7.15
+12/14/2095 4:57:35,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,153,7,57,0,1.16,27,nan,nan
+12/14/2095 4:57:45,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,154,7,57,0,nan,nan,0.19,nan
+12/14/2095 4:57:45,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,154,7,57,0,nan,nan,nan,7.50
+12/14/2095 4:57:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,155,7,57,0,nan,nan,0.00,3.68
+12/14/2095 4:57:52,1.16.2,VAR INT,3,4.11,1,1,Pellet,Right,2,155,7,58,0,0.79,17,nan,nan
+12/14/2095 5:07:11,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,156,7,58,0,nan,nan,0.14,nan
+12/14/2095 5:07:11,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,156,7,58,0,nan,nan,nan,2.50
+12/14/2095 5:07:13,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,157,7,58,0,nan,nan,0.01,1.62
+12/14/2095 5:07:14,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,157,7,59,0,0.24,562,nan,nan
+12/14/2095 5:07:31,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,158,7,59,0,nan,nan,0.09,nan
+12/14/2095 5:07:31,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,158,7,59,0,nan,nan,nan,15.50
+12/14/2095 5:07:33,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,159,7,59,0,nan,nan,0.00,13.14
+12/14/2095 5:07:42,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,159,7,60,0,0.06,28,nan,nan
+12/14/2095 5:08:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,160,7,60,0,nan,nan,0.08,nan
+12/14/2095 5:08:07,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,160,7,60,0,nan,nan,nan,9.50
+12/14/2095 5:08:13,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,161,7,60,0,nan,nan,0.00,2.13
+12/14/2095 5:08:15,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,162,7,60,0,nan,nan,0.16,nan
+12/14/2095 5:08:16,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,162,7,61,0,1.65,34,nan,nan
+12/14/2095 5:08:27,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,163,7,61,0,nan,nan,0.08,nan
+12/14/2095 5:08:27,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,163,7,61,0,nan,nan,nan,9.50
+12/14/2095 5:08:30,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,164,7,61,0,nan,nan,0.00,6.85
+12/14/2095 5:08:34,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,165,7,61,0,nan,nan,0.05,0.05
+12/14/2095 5:08:36,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,165,7,62,0,0.06,19,nan,nan
+12/14/2095 5:08:58,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,166,7,62,0,nan,nan,0.15,nan
+12/14/2095 5:08:58,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,166,7,62,0,nan,nan,nan,10.50
+12/14/2095 5:09:06,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,167,7,62,0,nan,nan,0.03,nan
+12/14/2095 5:09:13,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,167,7,63,0,3.68,38,nan,nan
+12/14/2095 5:15:39,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,168,7,63,0,nan,nan,0.16,nan
+12/14/2095 5:15:39,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,168,7,63,0,nan,nan,nan,9.50
+12/14/2095 5:15:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,169,7,63,0,nan,nan,0.09,7.44
+12/14/2095 5:15:44,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,170,7,63,0,nan,nan,0.13,3.40
+12/14/2095 5:15:47,1.16.2,VAR INT,3,4.12,nan,1,RightWithPellet,Right,2,171,7,63,0,nan,nan,0.18,nan
+12/14/2095 5:15:47,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,171,7,64,0,1.18,394,nan,nan
+12/14/2095 5:16:17,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,172,7,64,0,nan,nan,0.06,nan
+12/14/2095 5:16:17,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,172,7,64,0,nan,nan,nan,2.50
+12/14/2095 5:16:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,173,7,64,0,nan,nan,0.02,2.50
+12/14/2095 5:16:20,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,173,7,65,0,0.06,33,nan,nan
+12/14/2095 5:16:25,1.16.2,VAR INT,3,4.12,nan,1,WellPoke,Right,2,173,8,65,0,nan,nan,0.11,nan
+12/14/2095 5:16:38,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,174,8,65,0,nan,nan,0.05,nan
+12/14/2095 5:16:38,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,174,8,65,0,nan,nan,nan,5.50
+12/14/2095 5:16:43,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,174,8,66,0,0.36,23,nan,nan
+12/14/2095 5:16:56,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,175,8,66,0,nan,nan,0.04,nan
+12/14/2095 5:16:57,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,175,8,66,0,nan,nan,nan,3.50
+12/14/2095 5:17:00,1.16.2,VAR INT,3,4.12,nan,1,RightDuringDispense,Right,2,176,8,66,0,nan,nan,0.04,nan
+12/14/2095 5:17:01,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,176,8,67,0,0.06,18,nan,nan
+12/14/2095 5:17:47,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,177,8,67,0,nan,nan,0.03,nan
+12/14/2095 5:17:48,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,177,8,67,0,nan,nan,nan,6.50
+12/14/2095 5:17:53,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,177,8,68,0,0.06,52,nan,nan
+12/14/2095 5:18:09,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,178,8,68,0,nan,nan,0.03,nan
+12/14/2095 5:18:09,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,178,8,68,0,nan,nan,nan,17.50
+12/14/2095 5:18:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,179,8,68,0,nan,nan,0.07,15.14
+12/14/2095 5:18:16,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,180,8,68,0,nan,nan,0.05,8.79
+12/14/2095 5:18:18,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,181,8,68,0,nan,nan,0.00,4.84
+12/14/2095 5:18:21,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,182,8,68,0,nan,nan,0.02,0.40
+12/14/2095 5:18:22,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,182,8,69,0,0.06,29,nan,nan
+12/14/2095 5:18:40,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,183,8,69,0,nan,nan,0.15,nan
+12/14/2095 5:18:40,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,183,8,69,0,nan,nan,nan,16.50
+12/14/2095 5:18:42,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,184,8,69,0,nan,nan,0.15,14.14
+12/14/2095 5:18:52,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,184,8,70,0,0.06,30,nan,nan
+12/14/2095 5:19:12,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,185,8,70,0,nan,nan,0.02,nan
+12/14/2095 5:19:13,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,185,8,70,0,nan,nan,nan,16.50
+12/14/2095 5:19:26,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,185,8,71,0,0.55,34,nan,nan
+12/14/2095 5:21:07,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,186,8,71,0,nan,nan,0.17,nan
+12/14/2095 5:21:08,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,186,8,71,0,nan,nan,nan,2.50
+12/14/2095 5:21:12,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,186,8,72,0,1.96,106,nan,nan
+12/14/2095 5:29:46,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,187,8,72,0,nan,nan,0.15,nan
+12/14/2095 5:29:46,1.16.2,VAR INT,3,4.11,nan,1,Set VI,Right,2,187,8,72,0,nan,nan,nan,17.50
+12/14/2095 5:29:48,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,188,8,72,0,nan,nan,0.00,15.14
+12/14/2095 5:29:51,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,189,8,72,0,nan,nan,0.12,11.59
+12/14/2095 5:29:55,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,190,8,72,0,nan,nan,0.18,5.72
+12/14/2095 5:29:59,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,190,8,73,0,0.48,527,nan,nan
+12/14/2095 5:30:12,1.16.2,VAR INT,3,4.11,nan,1,Right,Right,2,191,8,73,0,nan,nan,0.08,nan
+12/14/2095 5:30:12,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,191,8,73,0,nan,nan,nan,2.50
+12/14/2095 5:30:15,1.16.2,VAR INT,3,4.12,1,1,Pellet,Right,2,191,8,74,0,0.30,16,nan,nan
+12/14/2095 5:30:33,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,192,8,74,0,nan,nan,0.04,nan
+12/14/2095 5:30:33,1.16.2,VAR INT,3,4.12,nan,1,Set VI,Right,2,192,8,74,0,nan,nan,nan,13.50
+12/14/2095 5:30:41,1.16.2,VAR INT,3,4.12,nan,1,Right,Right,2,193,8,74,0,nan,nan,0.02,3.19
+12/14/2095 5:30:46,1.16.2,VAR INT,3,4.12,2,1,Pellet,Right,2,193,8,75,0,1.34,31,nan,nan

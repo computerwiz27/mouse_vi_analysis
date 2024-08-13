@@ -1,5 +1,19 @@
+# pycache
 __pycache__
 __pycache__/* **
 
+
+# virtual envirnments
 vi_enviornment
 vi_enviornment/* **
+
+analysis_venv
+analysis_venv/* **
+
+
+# build data
+main.spec
+build
+build/* **
+dist
+dust/* **

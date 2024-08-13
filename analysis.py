@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import math
+import os
+import re
 
 file: str
 data: pd.DataFrame
@@ -20,7 +22,6 @@ def get_wrong_pokes() -> int:
         if active_sens == 'Right' and event in left_poke_events:
             wrong_pokes += 1
 
-    print('Wrong pokes:', wrong_pokes)
     return wrong_pokes
 
 def get_impulsive_pokes() -> int:
@@ -37,7 +38,6 @@ def get_impulsive_pokes() -> int:
         if row['Event'] in pellet_events:
             count_down_active = False
 
-    print('Impulsive pokes:', impulsive_pokes)
     return impulsive_pokes
 
 def get_avg_retrieval_t() -> int:
@@ -55,10 +55,20 @@ def get_avg_retrieval_t() -> int:
         retrievals += 1
     if retrievals > 0:
         retrieval_t_avg = retrieval_t_avg / retrievals
-
-    print('Average retrieval time:', retrieval_t_avg, 's')
     return retrieval_t_avg
 
+def get_accuracy() -> float:
+    wrong_pokes = get_wrong_pokes()
+    total_pokes = 0
+    for event in data['Event']:
+        if event in poke_events: total_pokes += 1
+    return (total_pokes - wrong_pokes) / total_pokes
+
+def get_pellets() -> int:
+    pellets = 0
+    for event in data['Event']:
+        if event in pellet_events: pellets += 1
+    return pellets
 
 def get_activity_graph() -> None:
     datetime_format = '%m/%d/%Y %H:%M:%S'
@@ -85,19 +95,54 @@ def get_activity_graph() -> None:
     plt.bar(buckets.keys(), event_freq)
     plt.show()
 
-def init():
+def is_data_file(file) -> bool:
+    try:
+        data = pd.read_csv(file)
+        data['MM:DD:YYYY hh:mm:ss'][0]
+        return True
+    except:
+        return False
+
+
+def get_date(folder) -> str:
+    for file in os.listdir(folder):
+        file_path = folder + '/' + file
+        match = re.search(r'.+\.(csv)|(CSV)$', file)
+        if match and is_data_file(file_path): break
+    data = pd.read_csv(file_path)
+    datetime_format = '%m/%d/%Y %H:%M:%S'
+    date_time_field = data['MM:DD:YYYY hh:mm:ss'][0]
+    date = datetime.strptime(date_time_field, datetime_format)
+    return date.strftime('%d%m%y')
+
+def init_file(file:str):
     global data 
     global active_sens
     data = pd.read_csv(file)
     active_sens = data['Active_Poke'][0]
 
-def run_analysis():
-    global data 
-    global active_sens
-    data = pd.read_csv(file)
-    active_sens = data['Active_Poke'][0]
+def run(folder: str, output_file: str):
+    output = open(output_file, 'w')
+    output.write('Mouse,Pellets,Accuracy,Impulsive_Pokes,Wrong_Pokes\n')
 
-    get_wrong_pokes()
-    get_impulsive_pokes()
-    get_avg_retrieval_t()
-    get_activity_graph()
+    for file_name in os.listdir(folder):
+        file_path = folder + '/' + file_name
+
+        match = re.search(r'.+\.(csv)|(CSV)$', file_name)
+        if not match: continue
+        if not is_data_file(file_path): continue
+
+        init_file(file_path)
+        mouse_name = os.path.splitext(file_name)[0]
+        output.write(mouse_name)
+        output.write(',')
+        output.write(str(get_pellets()))
+        output.write(',')
+        output.write(str(get_accuracy()))
+        output.write(',')
+        output.write(str(get_impulsive_pokes()))
+        output.write(',')
+        output.write(str(get_wrong_pokes()))
+        output.write('\n')
+    
+    output.close()
