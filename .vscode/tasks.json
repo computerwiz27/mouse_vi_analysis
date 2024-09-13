@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Make exe",
+            "type": "shell",
+            "group": "build",
+            "command": "pyinstaller",
+            "args": ["--add-binary=img/empty.png:img/", "--add-binary=img/mouse-thumbs-up.png:img/", "--noconsole", "--onefile",  "main.py"]
+        }
+    ]
+}

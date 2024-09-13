@@ -1,6 +1,7 @@
 import analysis
 
 import os
+import sys
 import time
 import threading
 import tkinter as tk
@@ -17,6 +18,15 @@ output = ''
 save_btn: tk.Button
 empty_img: ImageTk
 confirm_img: ImageTk
+
+def resource_path(relative_path):
+    try:
+        base_path = os.path.dirname(__file__)
+    except:
+        base_path = os.path.abspath('.')
+    
+    return os.path.join(base_path, relative_path)
+
 
 def get_folder(dir_entry: tk.Entry, output_entry: tk.Entry):
     global input_folder
@@ -81,11 +91,11 @@ def run_ui() -> None:
     output_browse_btn = tk.Button(output_frame, text='Browse...', command=lambda: get_save_file(mouse_name, output_entry))
     output_browse_btn.grid(column=2, row=0)
 
-    mouse_thumbs_up_img = Image.open('img/mouse-thumbs-up.png')
+    mouse_thumbs_up_img = Image.open(resource_path('img/mouse-thumbs-up.png'))
     mouse_thumbs_up_img = mouse_thumbs_up_img.resize((50,50))
     mouse_thumbs_up_img = ImageTk.PhotoImage(mouse_thumbs_up_img)
 
-    _empty_img = Image.open('img/empty.png')
+    _empty_img = Image.open(resource_path('img/empty.png'))
     _empty_img = _empty_img.resize((50,50))
     _empty_img = ImageTk.PhotoImage(_empty_img)
 
